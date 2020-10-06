@@ -4,9 +4,9 @@
 Hey Techie!! I am Anjali.<br>A tech enthusiast girl who loves to explore new things and leverage it to solve real-life problems.<br /><br>
 Its well said that:
 “Invest in today, tomorrow you will get it with interest.” – It's Me 👨‍ <br />
-
+<br />
  📫Connect with me here:<br />
- <br />
+ 
  <p>
   <a href="https://www.linkedin.com/in/anjali-dabas-4185b6181/">
     <img src="https://img.shields.io/badge/anjali-dabas-4185b6181/?style=flat&logo=linkedin">
